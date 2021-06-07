@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "123",
+    "owner": "12",
+    "description": "dasdsaf"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "1233",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "33"
+  }
+}
